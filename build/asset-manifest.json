@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-task1/static/css/main.48c405ed.css",
+    "main.js": "/React-task1/static/js/main.307694ff.js",
+    "static/media/team1.webp": "/React-task1/static/media/team1.8135fe12b867ae295cb4.webp",
+    "index.html": "/React-task1/index.html",
+    "main.48c405ed.css.map": "/React-task1/static/css/main.48c405ed.css.map",
+    "main.307694ff.js.map": "/React-task1/static/js/main.307694ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c405ed.css",
+    "static/js/main.307694ff.js"
+  ]
+}
